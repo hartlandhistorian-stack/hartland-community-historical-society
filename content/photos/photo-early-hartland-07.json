@@ -1,0 +1,30 @@
+{
+  "id": "photo-early-hartland-07",
+  "slug": "early-hartland-1920-bank-of-montreal-main-street",
+  "title": "1920 Bank of Montreal, Main Street",
+  "image": "/images/photos/early-hartland/1920-bank-of-montreal-main-street.jpg",
+  "description": "Hartland’s first bank, the Peoples Bank of Halifax, opened in 1897 in a building that rounded the corner on Orser Street, constructed by John T. G. Carr. The Bank of Montreal acquired it in 1905. In the winter of 1920, Henry Post was hired to build a new neoclassical brick building on Main Street. On July 18, 1921, the Bank of Montreal moved its local offices into this impressive new location on Main Street.",
+  "annotation_author": "Doris Kennedy",
+  "date": "1920",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Main Street"
+  ],
+  "category_ids": [
+    "cat-main-street",
+    "cat-pre-1907"
+  ],
+  "tags": [
+    "early-hartland"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-early-hartland"
+  ],
+  "alt": "1920 Bank of Montreal, Main Street — Doris Kennedy Collection."
+}

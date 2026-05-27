@@ -1,0 +1,135 @@
+{
+  "id": "poster-trains",
+  "slug": "hartland-trains",
+  "title": "Hartland Trains",
+  "description": "Wrecks, washouts, war-time goodbyes at the station, Governor General Vincent Massey's 1958 arrival, and the 1995 removal of the tracks — the rail era of Hartland from before 1907 through to the closing of the line.",
+  "physical_location": "Hartland Community Library, Hartland, NB",
+  "display_date": "circa 2020",
+  "poster_image": "/images/posters/hartland-trains.png",
+  "category_ids": [
+    "cat-trains"
+  ],
+  "photo_sequence": [
+    {
+      "photo_id": "photo-hartland-trains-01",
+      "row": 1,
+      "column": 1,
+      "display_order": 1
+    },
+    {
+      "photo_id": "photo-hartland-trains-14",
+      "row": 1,
+      "column": 2,
+      "display_order": 2
+    },
+    {
+      "photo_id": "photo-hartland-trains-03",
+      "row": 1,
+      "column": 3,
+      "display_order": 3
+    },
+    {
+      "photo_id": "photo-hartland-trains-04",
+      "row": 1,
+      "column": 4,
+      "display_order": 4
+    },
+    {
+      "photo_id": "photo-hartland-trains-02",
+      "row": 2,
+      "column": 1,
+      "display_order": 5
+    },
+    {
+      "photo_id": "photo-hartland-trains-05",
+      "row": 2,
+      "column": 2,
+      "display_order": 6
+    },
+    {
+      "photo_id": "photo-hartland-trains-06",
+      "row": 2,
+      "column": 3,
+      "display_order": 7
+    },
+    {
+      "photo_id": "photo-hartland-trains-07",
+      "row": 2,
+      "column": 4,
+      "display_order": 8
+    },
+    {
+      "photo_id": "photo-hartland-trains-08",
+      "row": 3,
+      "column": 1,
+      "display_order": 9
+    },
+    {
+      "photo_id": "photo-hartland-trains-09",
+      "row": 3,
+      "column": 2,
+      "display_order": 10
+    },
+    {
+      "photo_id": "photo-hartland-trains-10",
+      "row": 3,
+      "column": 3,
+      "display_order": 11
+    },
+    {
+      "photo_id": "photo-hartland-trains-17",
+      "row": 3,
+      "column": 4,
+      "display_order": 12
+    },
+    {
+      "photo_id": "photo-hartland-trains-12",
+      "row": 4,
+      "column": 1,
+      "display_order": 13
+    },
+    {
+      "photo_id": "photo-hartland-trains-13",
+      "row": 4,
+      "column": 2,
+      "display_order": 14
+    },
+    {
+      "photo_id": "photo-hartland-trains-18",
+      "row": 4,
+      "column": 3,
+      "display_order": 15
+    },
+    {
+      "photo_id": "photo-hartland-trains-15",
+      "row": 4,
+      "column": 4,
+      "display_order": 16
+    },
+    {
+      "photo_id": "photo-hartland-trains-16",
+      "row": 5,
+      "column": 1,
+      "display_order": 17
+    },
+    {
+      "photo_id": "photo-hartland-trains-11",
+      "row": 5,
+      "column": 2,
+      "display_order": 18
+    },
+    {
+      "photo_id": "photo-hartland-trains-19",
+      "row": 5,
+      "column": 4,
+      "display_order": 20
+    },
+    {
+      "photo_id": "photo-hartland-trains-20",
+      "row": 6,
+      "column": 1,
+      "display_order": 21
+    }
+  ],
+  "notes": "Annotations by Doris Kennedy. Full identification text available at /identifications/hartland-trains.txt."
+}

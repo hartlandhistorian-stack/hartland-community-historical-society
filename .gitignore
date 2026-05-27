@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.DS_Store
+*.log
+.env*.local
+public/qr-codes/*.svg
+public/qr-codes/*.png
+!public/qr-codes/.gitkeep

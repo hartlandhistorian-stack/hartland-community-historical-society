@@ -1,0 +1,26 @@
+{
+  "id": "photo-hartland-fires-13",
+  "slug": "hartland-fires-remains-of-1907-fire",
+  "title": "Remains of 1907 fire",
+  "image": "/images/photos/hartland-fires/02-remains-of-1907-fire.jpg",
+  "description": "Remains of 1907 fire. From the Doris Kennedy Collection. (Full identifications for this poster are available below.)",
+  "annotation_author": "Doris Kennedy",
+  "date": "1907",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "category_ids": [
+    "cat-fires"
+  ],
+  "tags": [
+    "hartland-fires"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-fires"
+  ],
+  "alt": "Remains of 1907 fire — Doris Kennedy Collection."
+}

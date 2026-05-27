@@ -1,0 +1,136 @@
+{
+  "id": "poster-floods",
+  "slug": "floods-of-hartland",
+  "title": "Floods of Hartland",
+  "description": "Photographs of the river out of its banks — 1922, 1923, the 1928 ice jam, the 1940 mill flood, and the more recent ones. The St. John River has shaped Hartland's geography as much by its floods as by its everyday flow.",
+  "physical_location": "Hartland Community Library, Hartland, NB",
+  "display_date": "circa 2014",
+  "poster_image": "/images/posters/floods-of-hartland.png",
+  "category_ids": [
+    "cat-floods",
+    "cat-river-life"
+  ],
+  "photo_sequence": [
+    {
+      "photo_id": "photo-floods-of-hartland-10",
+      "row": 1,
+      "column": 1,
+      "display_order": 1
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-01",
+      "row": 1,
+      "column": 2,
+      "display_order": 2
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-02",
+      "row": 1,
+      "column": 3,
+      "display_order": 3
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-03",
+      "row": 1,
+      "column": 4,
+      "display_order": 4
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-04",
+      "row": 2,
+      "column": 1,
+      "display_order": 5
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-05",
+      "row": 2,
+      "column": 2,
+      "display_order": 6
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-06",
+      "row": 2,
+      "column": 3,
+      "display_order": 7
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-07",
+      "row": 2,
+      "column": 4,
+      "display_order": 8
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-08",
+      "row": 3,
+      "column": 1,
+      "display_order": 9
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-09",
+      "row": 3,
+      "column": 2,
+      "display_order": 10
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-20",
+      "row": 3,
+      "column": 3,
+      "display_order": 11
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-11",
+      "row": 3,
+      "column": 4,
+      "display_order": 12
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-12",
+      "row": 4,
+      "column": 1,
+      "display_order": 13
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-13",
+      "row": 4,
+      "column": 2,
+      "display_order": 14
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-14",
+      "row": 4,
+      "column": 3,
+      "display_order": 15
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-15",
+      "row": 4,
+      "column": 4,
+      "display_order": 16
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-16",
+      "row": 5,
+      "column": 1,
+      "display_order": 17
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-17",
+      "row": 5,
+      "column": 2,
+      "display_order": 18
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-18",
+      "row": 5,
+      "column": 3,
+      "display_order": 19
+    },
+    {
+      "photo_id": "photo-floods-of-hartland-19",
+      "row": 5,
+      "column": 4,
+      "display_order": 20
+    }
+  ],
+  "notes": "Annotations by Doris Kennedy. Full identification text available at /identifications/floods-of-hartland.txt."
+}

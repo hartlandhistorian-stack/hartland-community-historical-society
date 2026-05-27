@@ -1,0 +1,135 @@
+{
+  "id": "poster-churches",
+  "slug": "churches-of-hartland",
+  "title": "Churches of Hartland",
+  "description": "The Free Christian Baptist, the Reformed Baptist, the Methodist (later United Church), Holy Trinity Anglican, the Assembly of God, and the Primitive Baptist Tabernacle in Upper Brighton — a portrait of Hartland's congregations, their buildings, and the fires and rebuildings that shaped them across more than a century.",
+  "physical_location": "Hartland Community Library, Hartland, NB",
+  "display_date": "circa 2008",
+  "poster_image": "/images/posters/churches-of-hartland.png",
+  "category_ids": [
+    "cat-churches"
+  ],
+  "photo_sequence": [
+    {
+      "photo_id": "photo-churches-of-hartland-01",
+      "row": 1,
+      "column": 2,
+      "display_order": 2
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-02",
+      "row": 1,
+      "column": 3,
+      "display_order": 3
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-03",
+      "row": 1,
+      "column": 4,
+      "display_order": 4
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-04",
+      "row": 2,
+      "column": 1,
+      "display_order": 5
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-06",
+      "row": 2,
+      "column": 2,
+      "display_order": 6
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-05",
+      "row": 2,
+      "column": 3,
+      "display_order": 7
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-07",
+      "row": 2,
+      "column": 4,
+      "display_order": 8
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-08",
+      "row": 3,
+      "column": 1,
+      "display_order": 9
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-09",
+      "row": 3,
+      "column": 2,
+      "display_order": 10
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-10",
+      "row": 3,
+      "column": 3,
+      "display_order": 11
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-11",
+      "row": 3,
+      "column": 4,
+      "display_order": 12
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-14",
+      "row": 4,
+      "column": 1,
+      "display_order": 13
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-12",
+      "row": 4,
+      "column": 2,
+      "display_order": 14
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-13",
+      "row": 4,
+      "column": 3,
+      "display_order": 15
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-15",
+      "row": 4,
+      "column": 4,
+      "display_order": 16
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-16",
+      "row": 5,
+      "column": 1,
+      "display_order": 17
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-17",
+      "row": 5,
+      "column": 2,
+      "display_order": 18
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-18",
+      "row": 5,
+      "column": 3,
+      "display_order": 19
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-19",
+      "row": 5,
+      "column": 4,
+      "display_order": 20
+    },
+    {
+      "photo_id": "photo-churches-of-hartland-20",
+      "row": 6,
+      "column": 1,
+      "display_order": 21
+    }
+  ],
+  "notes": "Annotations by Doris Kennedy. Full identification text available at /identifications/churches-of-hartland.txt."
+}

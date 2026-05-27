@@ -1,0 +1,30 @@
+{
+  "id": "photo-wolastoqey-salmon-pool-36",
+  "slug": "wolastoqey-salmon-pool-jerry-newman",
+  "title": "Jerry Newman",
+  "image": "/images/photos/wolastoqey-salmon-pool/jerry-newman.jpg",
+  "description": "Jerry Newman",
+  "annotation_author": "Doris Kennedy",
+  "date": "circa 1900",
+  "estimated_date": true,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Jerry Newman"
+  ],
+  "category_ids": [
+    "cat-river-life",
+    "cat-families-community"
+  ],
+  "tags": [
+    "wolastoqey-salmon-pool"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-salmon-pool"
+  ],
+  "alt": "Jerry Newman — Doris Kennedy Collection."
+}

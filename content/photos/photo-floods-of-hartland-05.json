@@ -1,0 +1,27 @@
+{
+  "id": "photo-floods-of-hartland-05",
+  "slug": "floods-of-hartland-1958-behind-j-clark-and-son",
+  "title": "1958 behind J Clark & Son",
+  "image": "/images/photos/floods-of-hartland/1958-behind-j-clark-and-son.jpg",
+  "description": "Flood of 1958. (Photo courtesy of Hoot Smith.)",
+  "annotation_author": "Doris Kennedy",
+  "date": "1958",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "category_ids": [
+    "cat-floods",
+    "cat-river-life"
+  ],
+  "tags": [
+    "floods-of-hartland"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-floods"
+  ],
+  "alt": "1958 behind J Clark & Son — Doris Kennedy Collection."
+}

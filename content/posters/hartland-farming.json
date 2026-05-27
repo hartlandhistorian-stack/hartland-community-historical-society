@@ -1,0 +1,33 @@
+{
+  "id": "poster-farming",
+  "slug": "hartland-farming",
+  "title": "Hartland Farming",
+  "description": "Hartland's Agricultural Heritage · 1900s to Present. From clearing old-growth forest with oxen to shipping potatoes as far as Cuba — the story of how the river valley around Hartland was transformed by generations of farming families into the agricultural heart of Carleton County. Photographs and identifications by Doris E. Kennedy.",
+  "physical_location": "Hartland Community Library, Hartland, NB",
+  "display_date": "circa 2005",
+  "poster_image": "/images/posters/hartland-farming.png",
+  "category_ids": ["cat-farming"],
+  "photo_sequence": [
+    { "photo_id": "photo-hartland-farming-01", "row": 1, "column": 1, "display_order": 1 },
+    { "photo_id": "photo-hartland-farming-02", "row": 1, "column": 2, "display_order": 2 },
+    { "photo_id": "photo-hartland-farming-03", "row": 1, "column": 3, "display_order": 3 },
+    { "photo_id": "photo-hartland-farming-04", "row": 1, "column": 4, "display_order": 4 },
+    { "photo_id": "photo-hartland-farming-05", "row": 2, "column": 1, "display_order": 5 },
+    { "photo_id": "photo-hartland-farming-06", "row": 2, "column": 2, "display_order": 6 },
+    { "photo_id": "photo-hartland-farming-07", "row": 2, "column": 3, "display_order": 7 },
+    { "photo_id": "photo-hartland-farming-08", "row": 2, "column": 4, "display_order": 8 },
+    { "photo_id": "photo-hartland-farming-09", "row": 3, "column": 1, "display_order": 9 },
+    { "photo_id": "photo-hartland-farming-10", "row": 3, "column": 2, "display_order": 10 },
+    { "photo_id": "photo-hartland-farming-11", "row": 3, "column": 3, "display_order": 11 },
+    { "photo_id": "photo-hartland-farming-12", "row": 3, "column": 4, "display_order": 12 },
+    { "photo_id": "photo-hartland-farming-13", "row": 4, "column": 1, "display_order": 13 },
+    { "photo_id": "photo-hartland-farming-14", "row": 4, "column": 2, "display_order": 14 },
+    { "photo_id": "photo-hartland-farming-15", "row": 4, "column": 3, "display_order": 15 },
+    { "photo_id": "photo-hartland-farming-16", "row": 4, "column": 4, "display_order": 16 },
+    { "photo_id": "photo-hartland-farming-17", "row": 5, "column": 1, "display_order": 17 },
+    { "photo_id": "photo-hartland-farming-18", "row": 5, "column": 2, "display_order": 18 },
+    { "photo_id": "photo-hartland-farming-19", "row": 5, "column": 3, "display_order": 19 },
+    { "photo_id": "photo-hartland-farming-20", "row": 5, "column": 4, "display_order": 20 }
+  ],
+  "notes": "Annotations by Doris Kennedy. Farming the Heart of the Valley — Hartland, New Brunswick."
+}

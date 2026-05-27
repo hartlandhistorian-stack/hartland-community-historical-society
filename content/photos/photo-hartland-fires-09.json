@@ -1,0 +1,29 @@
+{
+  "id": "photo-hartland-fires-09",
+  "slug": "hartland-fires-nb-seed-grower-fire-1988",
+  "title": "NB Seed Grower fire 1988",
+  "image": "/images/photos/hartland-fires/17-nb-seed-grower-fire-1988.jpg",
+  "description": "The New Brunswick Seed Grower Plant on lower Main caught fire on October 16, 1984.",
+  "annotation_author": "Doris Kennedy",
+  "date": "1988",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Seed Grower"
+  ],
+  "category_ids": [
+    "cat-fires"
+  ],
+  "tags": [
+    "hartland-fires"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-fires"
+  ],
+  "alt": "NB Seed Grower fire 1988 — Doris Kennedy Collection."
+}

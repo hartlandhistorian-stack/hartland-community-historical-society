@@ -1,0 +1,30 @@
+{
+  "id": "photo-churches-of-hartland-05",
+  "slug": "churches-of-hartland-holy-trinity-anglican-church",
+  "title": "Holy Trinity Anglican Church",
+  "image": "/images/photos/churches-of-hartland/holy-trinity-anglican-church.jpg",
+  "description": "In 1924, the Hartland Cement Company began constructing the massive, steeply pitched gable roof of the Holy Trinity Anglican Church. Distinctive pointed arch recessed windows, later adorned with stained glass, added to the church's charm. Thanks to numerous volunteers, the building was completed and dedicated in 1925.",
+  "annotation_author": "Doris Kennedy",
+  "date": "1924",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Holy Trinity",
+    "Anglican Church"
+  ],
+  "category_ids": [
+    "cat-churches"
+  ],
+  "tags": [
+    "churches-of-hartland"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-churches"
+  ],
+  "alt": "Holy Trinity Anglican Church — Doris Kennedy Collection."
+}

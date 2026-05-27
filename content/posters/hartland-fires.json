@@ -1,0 +1,141 @@
+{
+  "id": "poster-fires",
+  "slug": "hartland-fires",
+  "title": "Hartland Fires",
+  "description": "Twenty-one photographs of the fires that have shaped Hartland — beginning with the 1907 fire that destroyed the west side of Main Street, through the dehydration plant burns, the 1963 United Baptist Church fire, the 1980 town fire, and the Covered Bridge Chip Plant burn of 2024.",
+  "physical_location": "Hartland Community Library, Hartland, NB",
+  "display_date": "circa 2024",
+  "poster_image": "/images/posters/hartland-fires.png",
+  "category_ids": [
+    "cat-fires"
+  ],
+  "photo_sequence": [
+    {
+      "photo_id": "photo-hartland-fires-04",
+      "row": 1,
+      "column": 1,
+      "display_order": 1
+    },
+    {
+      "photo_id": "photo-hartland-fires-02",
+      "row": 1,
+      "column": 2,
+      "display_order": 2
+    },
+    {
+      "photo_id": "photo-hartland-fires-03",
+      "row": 1,
+      "column": 3,
+      "display_order": 3
+    },
+    {
+      "photo_id": "photo-hartland-fires-17",
+      "row": 1,
+      "column": 4,
+      "display_order": 4
+    },
+    {
+      "photo_id": "photo-hartland-fires-05",
+      "row": 2,
+      "column": 1,
+      "display_order": 5
+    },
+    {
+      "photo_id": "photo-hartland-fires-12",
+      "row": 2,
+      "column": 2,
+      "display_order": 6
+    },
+    {
+      "photo_id": "photo-hartland-fires-08",
+      "row": 2,
+      "column": 3,
+      "display_order": 7
+    },
+    {
+      "photo_id": "photo-hartland-fires-06",
+      "row": 2,
+      "column": 4,
+      "display_order": 8
+    },
+    {
+      "photo_id": "photo-hartland-fires-09",
+      "row": 3,
+      "column": 1,
+      "display_order": 9
+    },
+    {
+      "photo_id": "photo-hartland-fires-10",
+      "row": 3,
+      "column": 2,
+      "display_order": 10
+    },
+    {
+      "photo_id": "photo-hartland-fires-11",
+      "row": 3,
+      "column": 3,
+      "display_order": 11
+    },
+    {
+      "photo_id": "photo-hartland-fires-01",
+      "row": 3,
+      "column": 4,
+      "display_order": 12
+    },
+    {
+      "photo_id": "photo-hartland-fires-14",
+      "row": 4,
+      "column": 1,
+      "display_order": 13
+    },
+    {
+      "photo_id": "photo-hartland-fires-07",
+      "row": 4,
+      "column": 2,
+      "display_order": 14
+    },
+    {
+      "photo_id": "photo-hartland-fires-16",
+      "row": 4,
+      "column": 3,
+      "display_order": 15
+    },
+    {
+      "photo_id": "photo-hartland-fires-13",
+      "row": 4,
+      "column": 4,
+      "display_order": 16
+    },
+    {
+      "photo_id": "photo-hartland-fires-18",
+      "row": 5,
+      "column": 1,
+      "display_order": 17
+    },
+    {
+      "photo_id": "photo-hartland-fires-19",
+      "row": 5,
+      "column": 2,
+      "display_order": 18
+    },
+    {
+      "photo_id": "photo-hartland-fires-20",
+      "row": 5,
+      "column": 3,
+      "display_order": 19
+    },
+    {
+      "photo_id": "photo-hartland-fires-21",
+      "row": 5,
+      "column": 4,
+      "display_order": 20
+    },
+    {
+      "photo_id": "photo-hartland-fires-15",
+      "row": 6,
+      "column": 1,
+      "display_order": 21
+    }
+  ],
+  "notes": "Annotations by Doris Kennedy. Full identification text available at /identifications/hartland-fires.txt."
+}

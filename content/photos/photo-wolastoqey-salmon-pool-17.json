@@ -1,0 +1,30 @@
+{
+  "id": "photo-wolastoqey-salmon-pool-17",
+  "slug": "wolastoqey-salmon-pool-don-davis",
+  "title": "Don Davis",
+  "image": "/images/photos/wolastoqey-salmon-pool/don-davis.jpg",
+  "description": "Don Davis. From the Doris Kennedy Collection. (Full identifications for this poster are available below.)",
+  "annotation_author": "Doris Kennedy",
+  "date": "circa 1900",
+  "estimated_date": true,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Don Davis"
+  ],
+  "category_ids": [
+    "cat-river-life",
+    "cat-families-community"
+  ],
+  "tags": [
+    "wolastoqey-salmon-pool"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-salmon-pool"
+  ],
+  "alt": "Don Davis — Doris Kennedy Collection."
+}

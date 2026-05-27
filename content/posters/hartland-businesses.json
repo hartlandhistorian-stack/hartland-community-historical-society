@@ -1,0 +1,135 @@
+{
+  "id": "poster-businesses",
+  "slug": "hartland-businesses",
+  "title": "Hartland Businesses",
+  "description": "The shops, garages, service centres, hotels, hardware stores, and pool halls that worked Hartland's main streets through the twentieth century — Keith & Plummer, the Mac Service Center, Craig Machine Shop, Roy Stevens' barber shop, and many more.",
+  "physical_location": "Hartland Community Library, Hartland, NB",
+  "display_date": "circa 2018",
+  "poster_image": "/images/posters/hartland-businesses.png",
+  "category_ids": [
+    "cat-main-street"
+  ],
+  "photo_sequence": [
+    {
+      "photo_id": "photo-hartland-businesses-04",
+      "row": 1,
+      "column": 1,
+      "display_order": 1
+    },
+    {
+      "photo_id": "photo-hartland-businesses-01",
+      "row": 1,
+      "column": 2,
+      "display_order": 2
+    },
+    {
+      "photo_id": "photo-hartland-businesses-03",
+      "row": 1,
+      "column": 3,
+      "display_order": 3
+    },
+    {
+      "photo_id": "photo-hartland-businesses-02",
+      "row": 1,
+      "column": 4,
+      "display_order": 4
+    },
+    {
+      "photo_id": "photo-hartland-businesses-05",
+      "row": 2,
+      "column": 1,
+      "display_order": 5
+    },
+    {
+      "photo_id": "photo-hartland-businesses-06",
+      "row": 2,
+      "column": 2,
+      "display_order": 6
+    },
+    {
+      "photo_id": "photo-hartland-businesses-07",
+      "row": 2,
+      "column": 3,
+      "display_order": 7
+    },
+    {
+      "photo_id": "photo-hartland-businesses-08",
+      "row": 2,
+      "column": 4,
+      "display_order": 8
+    },
+    {
+      "photo_id": "photo-hartland-businesses-09",
+      "row": 3,
+      "column": 1,
+      "display_order": 9
+    },
+    {
+      "photo_id": "photo-hartland-businesses-10",
+      "row": 3,
+      "column": 2,
+      "display_order": 10
+    },
+    {
+      "photo_id": "photo-hartland-businesses-11",
+      "row": 3,
+      "column": 3,
+      "display_order": 11
+    },
+    {
+      "photo_id": "photo-hartland-businesses-12",
+      "row": 3,
+      "column": 4,
+      "display_order": 12
+    },
+    {
+      "photo_id": "photo-hartland-businesses-13",
+      "row": 4,
+      "column": 1,
+      "display_order": 13
+    },
+    {
+      "photo_id": "photo-hartland-businesses-14",
+      "row": 4,
+      "column": 2,
+      "display_order": 14
+    },
+    {
+      "photo_id": "photo-hartland-businesses-15",
+      "row": 4,
+      "column": 3,
+      "display_order": 15
+    },
+    {
+      "photo_id": "photo-hartland-businesses-16",
+      "row": 4,
+      "column": 4,
+      "display_order": 16
+    },
+    {
+      "photo_id": "photo-hartland-businesses-17",
+      "row": 5,
+      "column": 1,
+      "display_order": 17
+    },
+    {
+      "photo_id": "photo-hartland-businesses-18",
+      "row": 5,
+      "column": 2,
+      "display_order": 18
+    },
+    {
+      "photo_id": "photo-hartland-businesses-19",
+      "row": 5,
+      "column": 3,
+      "display_order": 19
+    },
+    {
+      "photo_id": "photo-hartland-businesses-20",
+      "row": 5,
+      "column": 4,
+      "display_order": 20
+    }
+  ],
+  "notes": "Annotations by Doris Kennedy. Full identification text available at /identifications/hartland-businesses.txt."
+}

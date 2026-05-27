@@ -1,0 +1,135 @@
+{
+  "id": "poster-hjf-bridge",
+  "slug": "hugh-john-flemming-bridge",
+  "title": "Hugh John Flemming Bridge",
+  "description": "Construction photographs of the Hugh John Flemming Bridge — the modern highway crossing of the St. John River at Hartland — from its eastern approach base through the spruce-trunk grid work, the cement plant on the west bank, and the August 1959 opening.",
+  "physical_location": "Hartland Community Library, Hartland, NB",
+  "display_date": "circa 2010",
+  "poster_image": "/images/posters/hugh-john-flemming-bridge.png",
+  "category_ids": [
+    "cat-bridges"
+  ],
+  "photo_sequence": [
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-11",
+      "row": 1,
+      "column": 1,
+      "display_order": 1
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-02",
+      "row": 1,
+      "column": 2,
+      "display_order": 2
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-03",
+      "row": 1,
+      "column": 3,
+      "display_order": 3
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-14",
+      "row": 1,
+      "column": 4,
+      "display_order": 4
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-05",
+      "row": 2,
+      "column": 1,
+      "display_order": 5
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-04",
+      "row": 2,
+      "column": 2,
+      "display_order": 6
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-09",
+      "row": 2,
+      "column": 3,
+      "display_order": 7
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-16",
+      "row": 2,
+      "column": 4,
+      "display_order": 8
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-07",
+      "row": 3,
+      "column": 1,
+      "display_order": 9
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-20",
+      "row": 3,
+      "column": 2,
+      "display_order": 10
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-19",
+      "row": 3,
+      "column": 3,
+      "display_order": 11
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-10",
+      "row": 3,
+      "column": 4,
+      "display_order": 12
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-13",
+      "row": 4,
+      "column": 1,
+      "display_order": 13
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-12",
+      "row": 4,
+      "column": 2,
+      "display_order": 14
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-08",
+      "row": 4,
+      "column": 4,
+      "display_order": 16
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-15",
+      "row": 5,
+      "column": 1,
+      "display_order": 17
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-06",
+      "row": 5,
+      "column": 2,
+      "display_order": 18
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-17",
+      "row": 5,
+      "column": 3,
+      "display_order": 19
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-18",
+      "row": 5,
+      "column": 4,
+      "display_order": 20
+    },
+    {
+      "photo_id": "photo-hugh-john-flemming-bridge-01",
+      "row": 6,
+      "column": 1,
+      "display_order": 21
+    }
+  ],
+  "notes": "Annotations by Doris Kennedy. Full identification text available at /identifications/hugh-john-flemming-bridge.txt."
+}

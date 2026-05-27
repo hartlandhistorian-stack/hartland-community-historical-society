@@ -1,0 +1,30 @@
+{
+  "id": "photo-floods-of-hartland-03",
+  "slug": "floods-of-hartland-1928-ice-jam",
+  "title": "1928 Ice Jam",
+  "image": "/images/photos/floods-of-hartland/1928-ice-jam.jpg",
+  "description": "Flood and ice jam April 1928. (Photo courtesy of Don Oliver.)",
+  "annotation_author": "Doris Kennedy",
+  "date": "1928",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Ice Jam"
+  ],
+  "category_ids": [
+    "cat-floods",
+    "cat-river-life"
+  ],
+  "tags": [
+    "floods-of-hartland"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-floods"
+  ],
+  "alt": "1928 Ice Jam — Doris Kennedy Collection."
+}

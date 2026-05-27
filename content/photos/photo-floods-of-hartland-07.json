@@ -1,0 +1,30 @@
+{
+  "id": "photo-floods-of-hartland-07",
+  "slug": "floods-of-hartland-1968-kennedys-home-lower-main",
+  "title": "1968 Kennedys Home lower Main",
+  "image": "/images/photos/floods-of-hartland/1968-kennedys-home-lower-main.jpg",
+  "description": "Flood on April 12, 1968.",
+  "annotation_author": "Doris Kennedy",
+  "date": "1968",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Kennedys Home"
+  ],
+  "category_ids": [
+    "cat-floods",
+    "cat-river-life"
+  ],
+  "tags": [
+    "floods-of-hartland"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-floods"
+  ],
+  "alt": "1968 Kennedys Home lower Main — Doris Kennedy Collection."
+}

@@ -1,0 +1,177 @@
+{
+  "id": "poster-school",
+  "slug": "hartland-school",
+  "title": "Hartland School",
+  "description": "Hartland's schools across more than a century — the 1899 Hartland Superior School on lower Main Street, the 1924 Hartland High School, school fairs on Burtt's flat, the 1932 war memorial, and the graduating classes and students who passed through.",
+  "physical_location": "Hartland Community Library, Hartland, NB",
+  "display_date": "circa 2018",
+  "poster_image": "/images/posters/hartland-school.png",
+  "category_ids": [
+    "cat-schools"
+  ],
+  "photo_sequence": [
+    {
+      "photo_id": "photo-hartland-school-16",
+      "row": 1,
+      "column": 1,
+      "display_order": 1
+    },
+    {
+      "photo_id": "photo-hartland-school-01",
+      "row": 1,
+      "column": 2,
+      "display_order": 2
+    },
+    {
+      "photo_id": "photo-hartland-school-02",
+      "row": 1,
+      "column": 3,
+      "display_order": 3
+    },
+    {
+      "photo_id": "photo-hartland-school-03",
+      "row": 1,
+      "column": 4,
+      "display_order": 4
+    },
+    {
+      "photo_id": "photo-hartland-school-04",
+      "row": 2,
+      "column": 1,
+      "display_order": 5
+    },
+    {
+      "photo_id": "photo-hartland-school-05",
+      "row": 2,
+      "column": 2,
+      "display_order": 6
+    },
+    {
+      "photo_id": "photo-hartland-school-06",
+      "row": 2,
+      "column": 3,
+      "display_order": 7
+    },
+    {
+      "photo_id": "photo-hartland-school-07",
+      "row": 2,
+      "column": 4,
+      "display_order": 8
+    },
+    {
+      "photo_id": "photo-hartland-school-08",
+      "row": 3,
+      "column": 1,
+      "display_order": 9
+    },
+    {
+      "photo_id": "photo-hartland-school-09",
+      "row": 3,
+      "column": 2,
+      "display_order": 10
+    },
+    {
+      "photo_id": "photo-hartland-school-10",
+      "row": 3,
+      "column": 3,
+      "display_order": 11
+    },
+    {
+      "photo_id": "photo-hartland-school-11",
+      "row": 3,
+      "column": 4,
+      "display_order": 12
+    },
+    {
+      "photo_id": "photo-hartland-school-12",
+      "row": 4,
+      "column": 1,
+      "display_order": 13
+    },
+    {
+      "photo_id": "photo-hartland-school-13",
+      "row": 4,
+      "column": 2,
+      "display_order": 14
+    },
+    {
+      "photo_id": "photo-hartland-school-14",
+      "row": 4,
+      "column": 3,
+      "display_order": 15
+    },
+    {
+      "photo_id": "photo-hartland-school-15",
+      "row": 4,
+      "column": 4,
+      "display_order": 16
+    },
+    {
+      "photo_id": "photo-hartland-school-25",
+      "row": 5,
+      "column": 1,
+      "display_order": 17
+    },
+    {
+      "photo_id": "photo-hartland-school-17",
+      "row": 5,
+      "column": 2,
+      "display_order": 18
+    },
+    {
+      "photo_id": "photo-hartland-school-18",
+      "row": 5,
+      "column": 3,
+      "display_order": 19
+    },
+    {
+      "photo_id": "photo-hartland-school-19",
+      "row": 5,
+      "column": 4,
+      "display_order": 20
+    },
+    {
+      "photo_id": "photo-hartland-school-20",
+      "row": 6,
+      "column": 1,
+      "display_order": 21
+    },
+    {
+      "photo_id": "photo-hartland-school-21",
+      "row": 6,
+      "column": 2,
+      "display_order": 22
+    },
+    {
+      "photo_id": "photo-hartland-school-22",
+      "row": 6,
+      "column": 3,
+      "display_order": 23
+    },
+    {
+      "photo_id": "photo-hartland-school-23",
+      "row": 6,
+      "column": 4,
+      "display_order": 24
+    },
+    {
+      "photo_id": "photo-hartland-school-26",
+      "row": 7,
+      "column": 2,
+      "display_order": 26
+    },
+    {
+      "photo_id": "photo-hartland-school-24",
+      "row": 7,
+      "column": 3,
+      "display_order": 27
+    },
+    {
+      "photo_id": "photo-hartland-school-27",
+      "row": 7,
+      "column": 4,
+      "display_order": 28
+    }
+  ],
+  "notes": "Annotations by Doris Kennedy. Full identification text available at /identifications/hartland-school.txt."
+}

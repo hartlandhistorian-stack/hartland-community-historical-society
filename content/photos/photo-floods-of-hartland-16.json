@@ -1,0 +1,27 @@
+{
+  "id": "photo-floods-of-hartland-16",
+  "slug": "floods-of-hartland-2008-train-bridge",
+  "title": "2008 Train bridge",
+  "image": "/images/photos/floods-of-hartland/2008-train-bridge.jpg",
+  "description": "Flood of 2008. (Photo courtesy of Kim Ginson)",
+  "annotation_author": "Doris Kennedy",
+  "date": "2008",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "category_ids": [
+    "cat-floods",
+    "cat-river-life"
+  ],
+  "tags": [
+    "floods-of-hartland"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-floods"
+  ],
+  "alt": "2008 Train bridge — Doris Kennedy Collection."
+}

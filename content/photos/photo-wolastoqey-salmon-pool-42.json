@@ -1,0 +1,30 @@
+{
+  "id": "photo-wolastoqey-salmon-pool-42",
+  "slug": "wolastoqey-salmon-pool-salmon-pool",
+  "title": "Salmon Pool",
+  "image": "/images/photos/wolastoqey-salmon-pool/salmon-pool.jpg",
+  "description": "Hartland Salmon Pool,  Archives P509-273 1947",
+  "annotation_author": "Doris Kennedy",
+  "date": "1947",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Salmon Pool"
+  ],
+  "category_ids": [
+    "cat-river-life",
+    "cat-families-community"
+  ],
+  "tags": [
+    "wolastoqey-salmon-pool"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-salmon-pool"
+  ],
+  "alt": "Salmon Pool — Doris Kennedy Collection."
+}

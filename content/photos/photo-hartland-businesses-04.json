@@ -1,0 +1,29 @@
+{
+  "id": "photo-hartland-businesses-04",
+  "slug": "hartland-businesses-1950s-hartland-outdoor-rink",
+  "title": "1950s Hartland Outdoor Rink",
+  "image": "/images/photos/hartland-businesses/1950s-hartland-outdoor-rink.jpg",
+  "description": "1950s Hartland Outdoor Rink. From the Doris Kennedy Collection. (Full identifications for this poster are available below.)",
+  "annotation_author": "Doris Kennedy",
+  "date": "circa 1900",
+  "estimated_date": true,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Hartland Outdoor"
+  ],
+  "category_ids": [
+    "cat-main-street"
+  ],
+  "tags": [
+    "hartland-businesses"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-businesses"
+  ],
+  "alt": "1950s Hartland Outdoor Rink — Doris Kennedy Collection."
+}

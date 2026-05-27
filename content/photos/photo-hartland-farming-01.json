@@ -1,0 +1,20 @@
+{
+  "id": "photo-hartland-farming-01",
+  "slug": "hartland-farming-valley-farmland-potato-field",
+  "title": "Farming in the Valley",
+  "image": "/images/photos/hartland-farming/01-farming-in-the-valley.jpg",
+  "description": "Once covered by dense old-growth forests, the land in the river valley surrounding Hartland was gradually cleared through harsh conditions — a backbreaking task performed first with oxen teams and later with sturdy horses. Stumps were pulled, logs dragged, and stones gathered in sequence. Men swung axes from dawn to dusk, while women burned brush and planted gardens beside rough log homes. Every acre represents years of labour, as the land transformed into self-sufficient, family-operated, cottage-style farms, often supplemented with fishing, logging, or trapping. These combined efforts laid the foundation for the close-knit, resilient community that developed in the valley.",
+  "annotation_author": "Doris Kennedy",
+  "date": "circa early 1900s",
+  "estimated_date": true,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "category_ids": ["cat-farming"],
+  "tags": ["hartland-farming", "potato", "valley", "landscape"],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": ["poster-farming"],
+  "alt": "Wide view of rolling potato farmland in the Hartland valley — Doris Kennedy Collection."
+}

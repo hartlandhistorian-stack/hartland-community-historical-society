@@ -1,0 +1,136 @@
+{
+  "id": "poster-festivals",
+  "slug": "festivals-and-celebrations",
+  "title": "Festivals and Celebrations",
+  "description": "Chautauquas, Diamond Jubilees, coronation parades, fire-truck parades, and the gatherings that drew the valley out to the streets — the moments Hartland celebrated together.",
+  "physical_location": "Hartland Community Library, Hartland, NB",
+  "display_date": "circa 2012",
+  "poster_image": "/images/posters/festivals-and-celebrations.png",
+  "category_ids": [
+    "cat-festivals",
+    "cat-families-community"
+  ],
+  "photo_sequence": [
+    {
+      "photo_id": "photo-festivals-and-celebrations-01",
+      "row": 1,
+      "column": 1,
+      "display_order": 1
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-02",
+      "row": 1,
+      "column": 2,
+      "display_order": 2
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-03",
+      "row": 1,
+      "column": 3,
+      "display_order": 3
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-04",
+      "row": 1,
+      "column": 4,
+      "display_order": 4
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-05",
+      "row": 2,
+      "column": 1,
+      "display_order": 5
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-06",
+      "row": 2,
+      "column": 2,
+      "display_order": 6
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-07",
+      "row": 2,
+      "column": 3,
+      "display_order": 7
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-08",
+      "row": 2,
+      "column": 4,
+      "display_order": 8
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-09",
+      "row": 3,
+      "column": 1,
+      "display_order": 9
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-10",
+      "row": 3,
+      "column": 2,
+      "display_order": 10
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-11",
+      "row": 3,
+      "column": 3,
+      "display_order": 11
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-12",
+      "row": 3,
+      "column": 4,
+      "display_order": 12
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-13",
+      "row": 4,
+      "column": 1,
+      "display_order": 13
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-14",
+      "row": 4,
+      "column": 2,
+      "display_order": 14
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-15",
+      "row": 4,
+      "column": 3,
+      "display_order": 15
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-17",
+      "row": 4,
+      "column": 4,
+      "display_order": 16
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-18",
+      "row": 5,
+      "column": 1,
+      "display_order": 17
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-19",
+      "row": 5,
+      "column": 2,
+      "display_order": 18
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-20",
+      "row": 5,
+      "column": 3,
+      "display_order": 19
+    },
+    {
+      "photo_id": "photo-festivals-and-celebrations-16",
+      "row": 5,
+      "column": 4,
+      "display_order": 20
+    }
+  ],
+  "notes": "Annotations by Doris Kennedy. Full identification text available at /identifications/festivals-and-celebrations.txt."
+}

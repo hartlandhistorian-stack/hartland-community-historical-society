@@ -1,0 +1,27 @@
+{
+  "id": "photo-floods-of-hartland-08",
+  "slug": "floods-of-hartland-1971-april-1-flood",
+  "title": "1971, April 1 flood",
+  "image": "/images/photos/floods-of-hartland/1971-april-1-flood.jpg",
+  "description": "Flood on April 1, 1971 United Baptist Church.",
+  "annotation_author": "Doris Kennedy",
+  "date": "1971",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "category_ids": [
+    "cat-floods",
+    "cat-river-life"
+  ],
+  "tags": [
+    "floods-of-hartland"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-floods"
+  ],
+  "alt": "1971, April 1 flood — Doris Kennedy Collection."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "photo-floods-of-hartland-17",
+  "slug": "floods-of-hartland-2009-covered-bridge-damage",
+  "title": "2009 Covered Bridge damage",
+  "image": "/images/photos/floods-of-hartland/2009-covered-bridge-damage.jpg",
+  "description": "Flood 2009. (Photo courtesy of Amanda Dickinson)",
+  "annotation_author": "Doris Kennedy",
+  "date": "2009",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Covered Bridge"
+  ],
+  "category_ids": [
+    "cat-floods",
+    "cat-river-life"
+  ],
+  "tags": [
+    "floods-of-hartland"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-floods"
+  ],
+  "alt": "2009 Covered Bridge damage — Doris Kennedy Collection."
+}

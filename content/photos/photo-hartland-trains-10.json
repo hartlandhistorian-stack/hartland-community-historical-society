@@ -1,0 +1,26 @@
+{
+  "id": "photo-hartland-trains-10",
+  "slug": "hartland-trains-1963-work-train",
+  "title": "1963 work train",
+  "image": "/images/photos/hartland-trains/1963-work-train.jpg",
+  "description": "The train tracks needed regular inspection and repairs, as the weather often damaged the rail bed. Photo taken in 1963.",
+  "annotation_author": "Doris Kennedy",
+  "date": "1963",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "category_ids": [
+    "cat-trains"
+  ],
+  "tags": [
+    "hartland-trains"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-trains"
+  ],
+  "alt": "1963 work train — Doris Kennedy Collection."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "photo-hartland-fires-21",
+  "slug": "hartland-fires-stedmans-upper-main-st",
+  "title": "Stedmans upper Main St",
+  "image": "/images/photos/hartland-fires/09-stedmans-upper-main-st.jpg",
+  "description": "This photograph captures a bustling Main Street in July 1960, featuring the Stedmans 5&10 Store, Handy Andy, the Post Office, and the Capitol Theatre on the west side. On the left, you can spot David Howell’s pool hall and Roy Stevens’ barber shop at street level, with Howell’s residence above. Today, only the former federal post office building remains, now home to the Dr. Walter Chestnut Library. (Photo courtesy of Hoot Smith)",
+  "annotation_author": "Doris Kennedy",
+  "date": "1960",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Main St"
+  ],
+  "category_ids": [
+    "cat-fires"
+  ],
+  "tags": [
+    "hartland-fires"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-fires"
+  ],
+  "alt": "Stedmans upper Main St — Doris Kennedy Collection."
+}

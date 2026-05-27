@@ -1,0 +1,27 @@
+{
+  "id": "photo-floods-of-hartland-13",
+  "slug": "floods-of-hartland-1986-simonds",
+  "title": "1986 Simonds",
+  "image": "/images/photos/floods-of-hartland/1986-simonds.jpg",
+  "description": "Flood of 1986 in Simonds.",
+  "annotation_author": "Doris Kennedy",
+  "date": "1986",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "category_ids": [
+    "cat-floods",
+    "cat-river-life"
+  ],
+  "tags": [
+    "floods-of-hartland"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-floods"
+  ],
+  "alt": "1986 Simonds — Doris Kennedy Collection."
+}

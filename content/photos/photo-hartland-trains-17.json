@@ -1,0 +1,29 @@
+{
+  "id": "photo-hartland-trains-17",
+  "slug": "hartland-trains-train-station",
+  "title": "Train Station",
+  "image": "/images/photos/hartland-trains/train-station.jpg",
+  "description": "Train Station. From the Doris Kennedy Collection. (Full identifications for this poster are available below.)",
+  "annotation_author": "Doris Kennedy",
+  "date": "circa 1900",
+  "estimated_date": true,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Train Station"
+  ],
+  "category_ids": [
+    "cat-trains"
+  ],
+  "tags": [
+    "hartland-trains"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-trains"
+  ],
+  "alt": "Train Station — Doris Kennedy Collection."
+}

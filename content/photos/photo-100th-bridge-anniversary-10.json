@@ -1,0 +1,30 @@
+{
+  "id": "photo-100th-bridge-anniversary-10",
+  "slug": "100th-bridge-anniversary-hugh-clark-in-parade-of-dignitaries",
+  "title": "Hugh Clark in parade of dignitaries",
+  "image": "/images/photos/100th-bridge-anniversary/hugh-clark-in-parade-of-dignitaries.jpg",
+  "description": "Hugh Clark participated in the parade of dignitaries, showcasing his wireless emergency transmission radio, which had transmitted signals across the Atlantic since December 1901.",
+  "annotation_author": "Doris Kennedy",
+  "date": "1901",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Hugh Clark"
+  ],
+  "category_ids": [
+    "cat-bridges",
+    "cat-families-community"
+  ],
+  "tags": [
+    "100th-bridge-anniversary"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-bridge-100"
+  ],
+  "alt": "Hugh Clark in parade of dignitaries — Doris Kennedy Collection."
+}

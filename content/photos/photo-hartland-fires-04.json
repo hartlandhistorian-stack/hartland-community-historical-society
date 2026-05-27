@@ -1,0 +1,29 @@
+{
+  "id": "photo-hartland-fires-04",
+  "slug": "hartland-fires-hatfield-potato-chips",
+  "title": "Hatfield Potato Chips",
+  "image": "/images/photos/hartland-fires/12-hatfield-potato-chips.jpg",
+  "description": "Hatfield Potato Chips. From the Doris Kennedy Collection. (Full identifications for this poster are available below.)",
+  "annotation_author": "Doris Kennedy",
+  "date": "circa 1900",
+  "estimated_date": true,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Hatfield Potato"
+  ],
+  "category_ids": [
+    "cat-fires"
+  ],
+  "tags": [
+    "hartland-fires"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-fires"
+  ],
+  "alt": "Hatfield Potato Chips — Doris Kennedy Collection."
+}

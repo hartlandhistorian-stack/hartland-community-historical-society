@@ -1,0 +1,29 @@
+{
+  "id": "photo-churches-of-hartland-20",
+  "slug": "churches-of-hartland-wesleyan-church",
+  "title": "Wesleyan Church",
+  "image": "/images/photos/churches-of-hartland/wesleyan-church.jpg",
+  "description": "The final service at the old Wesleyan Church took place on September 16, 1984. Beginning September 19, 1984, all services were held in the new building in Somerville.",
+  "annotation_author": "Doris Kennedy",
+  "date": "1984",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Wesleyan Church"
+  ],
+  "category_ids": [
+    "cat-churches"
+  ],
+  "tags": [
+    "churches-of-hartland"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-churches"
+  ],
+  "alt": "Wesleyan Church — Doris Kennedy Collection."
+}

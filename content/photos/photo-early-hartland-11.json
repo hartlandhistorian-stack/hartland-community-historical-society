@@ -1,0 +1,31 @@
+{
+  "id": "photo-early-hartland-11",
+  "slug": "early-hartland-1950s-harry-stewarts-service-station",
+  "title": "1950s Harry Stewart's Service Station",
+  "image": "/images/photos/early-hartland/1950s-harry-stewarts-service-station.jpg",
+  "description": "1950s Harry Stewart's Service Station. From the Doris Kennedy Collection. (Full identifications for this poster are available below.)",
+  "annotation_author": "Doris Kennedy",
+  "date": "circa 1900",
+  "estimated_date": true,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Harry Stewart",
+    "Service Station"
+  ],
+  "category_ids": [
+    "cat-main-street",
+    "cat-pre-1907"
+  ],
+  "tags": [
+    "early-hartland"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-early-hartland"
+  ],
+  "alt": "1950s Harry Stewart's Service Station — Doris Kennedy Collection."
+}

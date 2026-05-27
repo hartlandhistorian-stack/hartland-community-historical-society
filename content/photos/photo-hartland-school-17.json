@@ -1,0 +1,26 @@
+{
+  "id": "photo-hartland-school-17",
+  "slug": "hartland-school-1970-graduation",
+  "title": "1970 Graduation",
+  "image": "/images/photos/hartland-school/1970-graduation.jpg",
+  "description": "1970 Graduation. From the Doris Kennedy Collection. (Full identifications for this poster are available below.)",
+  "annotation_author": "Doris Kennedy",
+  "date": "1970",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "category_ids": [
+    "cat-schools"
+  ],
+  "tags": [
+    "hartland-school"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-school"
+  ],
+  "alt": "1970 Graduation — Doris Kennedy Collection."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "photo-hartland-fires-12",
+  "slug": "hartland-fires-1907-fire-july-15",
+  "title": "1907 fire July 15",
+  "image": "/images/photos/hartland-fires/1907-fire-july-15.png",
+  "description": "1907 fire July 15. From the Doris Kennedy Collection. (Full identifications for this poster are available below.)",
+  "annotation_author": "Doris Kennedy",
+  "date": "1907",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "category_ids": [
+    "cat-fires"
+  ],
+  "tags": [
+    "hartland-fires"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-fires"
+  ],
+  "alt": "1907 fire July 15 — Doris Kennedy Collection."
+}

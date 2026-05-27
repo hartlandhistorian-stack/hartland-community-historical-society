@@ -1,0 +1,26 @@
+{
+  "id": "photo-hartland-trains-02",
+  "slug": "hartland-trains-1914-train-station-ww1",
+  "title": "1914 Train station WW1",
+  "image": "/images/photos/hartland-trains/1914-train-station-ww1.jpg",
+  "description": "1914–15, just south of Hartland. This photograph captures a group of well-known local figures: Roy Cameron, Arthur Dickinson, Wade Thornton, Fred Thornton, Pearl Shaw, Kenneth Keith, Rex York, and Hugh Smith. The back row includes Capt. Colwell (bandmaster), Alfred Moore, Bert Boyer, Theo Shaw, Guy McGinlay, James Montgomery, Oran Hovey, Harry Gillen, Hartly, and Baker. Some individuals remain unidentified.",
+  "annotation_author": "Doris Kennedy",
+  "date": "1914",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "category_ids": [
+    "cat-trains"
+  ],
+  "tags": [
+    "hartland-trains"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-trains"
+  ],
+  "alt": "1914 Train station WW1 — Doris Kennedy Collection."
+}

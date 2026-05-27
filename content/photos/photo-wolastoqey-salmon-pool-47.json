@@ -1,0 +1,30 @@
+{
+  "id": "photo-wolastoqey-salmon-pool-47",
+  "slug": "wolastoqey-salmon-pool-william-fraser",
+  "title": "William Fraser",
+  "image": "/images/photos/wolastoqey-salmon-pool/william-fraser.jpg",
+  "description": "Bill (William) Fraser",
+  "annotation_author": "Doris Kennedy",
+  "date": "circa 1900",
+  "estimated_date": true,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "William Fraser"
+  ],
+  "category_ids": [
+    "cat-river-life",
+    "cat-families-community"
+  ],
+  "tags": [
+    "wolastoqey-salmon-pool"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-salmon-pool"
+  ],
+  "alt": "William Fraser — Doris Kennedy Collection."
+}

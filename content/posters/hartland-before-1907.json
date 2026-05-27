@@ -1,0 +1,136 @@
+{
+  "id": "poster-pre-1907",
+  "slug": "hartland-before-1907",
+  "title": "Hartland Before 1907",
+  "description": "Hartland before the great fire of 1907 — the Becaguimic train and highway bridges in 1885, the Commercial Hotel, the toll bridge, John T G Carr's house, and the streetscapes that were lost when much of Main Street burned.",
+  "physical_location": "Hartland Community Library, Hartland, NB",
+  "display_date": "circa 2016",
+  "poster_image": "/images/posters/hartland-before-1907.png",
+  "category_ids": [
+    "cat-pre-1907",
+    "cat-main-street"
+  ],
+  "photo_sequence": [
+    {
+      "photo_id": "photo-hartland-before-1907-09",
+      "row": 1,
+      "column": 1,
+      "display_order": 1
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-01",
+      "row": 1,
+      "column": 2,
+      "display_order": 2
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-16",
+      "row": 1,
+      "column": 3,
+      "display_order": 3
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-03",
+      "row": 1,
+      "column": 4,
+      "display_order": 4
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-04",
+      "row": 2,
+      "column": 1,
+      "display_order": 5
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-05",
+      "row": 2,
+      "column": 2,
+      "display_order": 6
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-06",
+      "row": 2,
+      "column": 3,
+      "display_order": 7
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-07",
+      "row": 2,
+      "column": 4,
+      "display_order": 8
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-08",
+      "row": 3,
+      "column": 1,
+      "display_order": 9
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-18",
+      "row": 3,
+      "column": 2,
+      "display_order": 10
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-12",
+      "row": 3,
+      "column": 3,
+      "display_order": 11
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-10",
+      "row": 3,
+      "column": 4,
+      "display_order": 12
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-15",
+      "row": 4,
+      "column": 1,
+      "display_order": 13
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-13",
+      "row": 4,
+      "column": 2,
+      "display_order": 14
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-14",
+      "row": 4,
+      "column": 3,
+      "display_order": 15
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-11",
+      "row": 4,
+      "column": 4,
+      "display_order": 16
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-02",
+      "row": 5,
+      "column": 1,
+      "display_order": 17
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-17",
+      "row": 5,
+      "column": 2,
+      "display_order": 18
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-19",
+      "row": 5,
+      "column": 4,
+      "display_order": 20
+    },
+    {
+      "photo_id": "photo-hartland-before-1907-20",
+      "row": 6,
+      "column": 1,
+      "display_order": 21
+    }
+  ],
+  "notes": "Annotations by Doris Kennedy. Full identification text available at /identifications/hartland-before-1907.txt."
+}

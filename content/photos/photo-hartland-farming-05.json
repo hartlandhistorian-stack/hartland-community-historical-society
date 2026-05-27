@@ -1,0 +1,21 @@
+{
+  "id": "photo-hartland-farming-05",
+  "slug": "hartland-farming-harry-lipsette-farm-lower-brighton",
+  "title": "Harry Lipsette Farm, Lower Brighton",
+  "image": "/images/photos/hartland-farming/05-haying-lipsette-farm.jpg",
+  "description": "Harry Lipsette Farm, Lower Brighton. These farms were nearly self-sufficient; they raised chickens for eggs, cows for milk and butter, pigs for meat, and sheep for wool. In addition, gardens were abundant with beans, carrots, cabbage, onions, and preserves, providing enough to sustain a household through winter.",
+  "annotation_author": "Doris Kennedy",
+  "people": ["Harry Lipsette"],
+  "date": "circa early 1900s",
+  "estimated_date": true,
+  "location": "Lower Brighton, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "category_ids": ["cat-farming"],
+  "tags": ["hartland-farming", "lipsette", "lower-brighton", "self-sufficient"],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": ["poster-farming"],
+  "alt": "Harry Lipsette Farm in Lower Brighton — a nearly self-sufficient family farm — Doris Kennedy Collection."
+}

@@ -1,0 +1,137 @@
+{
+  "id": "poster-bridge-100",
+  "slug": "100th-bridge-anniversary",
+  "title": "100th Bridge Anniversary",
+  "description": "In 2001, Hartland marked the 100th anniversary of the world's longest covered bridge with re-enactments, a parade of dignitaries, dinners at the United Baptist Church, fireworks, and a ribbon cutting. Doris Kennedy and John Glass co-chaired the committee. Twenty photographs follow the order of the printed poster.",
+  "physical_location": "Hartland Community Library, Hartland, NB",
+  "display_date": "2001",
+  "poster_image": "/images/posters/100th-bridge-anniversary.png",
+  "poster_pdf": "/posters/100th-bridge-anniversary.pdf",
+  "category_ids": [
+    "cat-bridges",
+    "cat-families-community"
+  ],
+  "photo_sequence": [
+    {
+      "photo_id": "photo-100th-bridge-anniversary-12",
+      "row": 1,
+      "column": 1,
+      "display_order": 1
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-05",
+      "row": 1,
+      "column": 2,
+      "display_order": 2
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-19",
+      "row": 1,
+      "column": 3,
+      "display_order": 3
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-06",
+      "row": 1,
+      "column": 4,
+      "display_order": 4
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-07",
+      "row": 2,
+      "column": 1,
+      "display_order": 5
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-08",
+      "row": 2,
+      "column": 2,
+      "display_order": 6
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-09",
+      "row": 2,
+      "column": 3,
+      "display_order": 7
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-10",
+      "row": 2,
+      "column": 4,
+      "display_order": 8
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-11",
+      "row": 3,
+      "column": 1,
+      "display_order": 9
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-18",
+      "row": 3,
+      "column": 2,
+      "display_order": 10
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-13",
+      "row": 3,
+      "column": 3,
+      "display_order": 11
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-14",
+      "row": 3,
+      "column": 4,
+      "display_order": 12
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-15",
+      "row": 4,
+      "column": 1,
+      "display_order": 13
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-16",
+      "row": 4,
+      "column": 2,
+      "display_order": 14
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-17",
+      "row": 4,
+      "column": 3,
+      "display_order": 15
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-20",
+      "row": 4,
+      "column": 4,
+      "display_order": 16
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-03",
+      "row": 5,
+      "column": 1,
+      "display_order": 17
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-01",
+      "row": 5,
+      "column": 2,
+      "display_order": 18
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-02",
+      "row": 5,
+      "column": 4,
+      "display_order": 20
+    },
+    {
+      "photo_id": "photo-100th-bridge-anniversary-04",
+      "row": 6,
+      "column": 1,
+      "display_order": 21
+    }
+  ],
+  "notes": "Annotations by Doris Kennedy. Full identification text available at /identifications/100th-bridge-anniversary.txt."
+}

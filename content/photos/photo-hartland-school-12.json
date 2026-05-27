@@ -1,0 +1,26 @@
+{
+  "id": "photo-hartland-school-12",
+  "slug": "hartland-school-1960s-art-exhibit-in-school-gym",
+  "title": "1960s art exhibit in school gym",
+  "image": "/images/photos/hartland-school/1960s-art-exhibit-in-school-gym.jpg",
+  "description": "In 1960, an art exhibit was held in the new gymnasium for the community.",
+  "annotation_author": "Doris Kennedy",
+  "date": "1960",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "category_ids": [
+    "cat-schools"
+  ],
+  "tags": [
+    "hartland-school"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-school"
+  ],
+  "alt": "1960s art exhibit in school gym — Doris Kennedy Collection."
+}

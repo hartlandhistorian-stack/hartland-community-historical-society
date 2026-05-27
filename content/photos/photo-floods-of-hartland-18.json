@@ -1,0 +1,27 @@
+{
+  "id": "photo-floods-of-hartland-18",
+  "slug": "floods-of-hartland-2010-train-bridge-destruction",
+  "title": "2010 Train bridge destruction",
+  "image": "/images/photos/floods-of-hartland/2010-train-bridge-destruction.jpg",
+  "description": "Flood of December 2010 Becaguimic train bridge wash out.",
+  "annotation_author": "Doris Kennedy",
+  "date": "2010",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "category_ids": [
+    "cat-floods",
+    "cat-river-life"
+  ],
+  "tags": [
+    "floods-of-hartland"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-floods"
+  ],
+  "alt": "2010 Train bridge destruction — Doris Kennedy Collection."
+}

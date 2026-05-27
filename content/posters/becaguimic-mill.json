@@ -1,0 +1,138 @@
+{
+  "id": "poster-mill",
+  "slug": "becaguimic-mill",
+  "title": "Sayre's Mill on the Becaguimic",
+  "description": "Photographs of Sayre's Mill, Frank Hagerman's grist mill, and the surrounding industrial life at the mouth of the Becaguimic Stream — from a sketch of the wooden bridge in 1845 through the 1922 flood that broke the mill pond and rammed the highway bridge into the train bridge, and on to the 1926 fire that destroyed the mill.",
+  "physical_location": "Hartland Community Library, Hartland, NB",
+  "display_date": "circa 2005",
+  "poster_image": "/images/posters/becaguimic-mill.png",
+  "poster_pdf": "/posters/becaguimic-mill.pdf",
+  "category_ids": [
+    "cat-mills",
+    "cat-river-life",
+    "cat-logging"
+  ],
+  "photo_sequence": [
+    {
+      "photo_id": "photo-becaguimic-mill-01",
+      "row": 1,
+      "column": 1,
+      "display_order": 1
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-02",
+      "row": 1,
+      "column": 2,
+      "display_order": 2
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-03",
+      "row": 1,
+      "column": 3,
+      "display_order": 3
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-04",
+      "row": 1,
+      "column": 4,
+      "display_order": 4
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-05",
+      "row": 2,
+      "column": 1,
+      "display_order": 5
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-06",
+      "row": 2,
+      "column": 2,
+      "display_order": 6
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-07",
+      "row": 2,
+      "column": 3,
+      "display_order": 7
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-08",
+      "row": 2,
+      "column": 4,
+      "display_order": 8
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-09",
+      "row": 3,
+      "column": 1,
+      "display_order": 9
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-10",
+      "row": 3,
+      "column": 2,
+      "display_order": 10
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-11",
+      "row": 3,
+      "column": 3,
+      "display_order": 11
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-12",
+      "row": 3,
+      "column": 4,
+      "display_order": 12
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-13",
+      "row": 4,
+      "column": 1,
+      "display_order": 13
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-14",
+      "row": 4,
+      "column": 2,
+      "display_order": 14
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-15",
+      "row": 4,
+      "column": 3,
+      "display_order": 15
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-16",
+      "row": 4,
+      "column": 4,
+      "display_order": 16
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-17",
+      "row": 5,
+      "column": 1,
+      "display_order": 17
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-18",
+      "row": 5,
+      "column": 2,
+      "display_order": 18
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-19",
+      "row": 5,
+      "column": 3,
+      "display_order": 19
+    },
+    {
+      "photo_id": "photo-becaguimic-mill-20",
+      "row": 5,
+      "column": 4,
+      "display_order": 20
+    }
+  ],
+  "notes": "Annotations by Doris Kennedy. Full identification text available at /identifications/becaguimic-mill.txt."
+}

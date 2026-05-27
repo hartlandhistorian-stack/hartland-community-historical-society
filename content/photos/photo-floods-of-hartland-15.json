@@ -1,0 +1,27 @@
+{
+  "id": "photo-floods-of-hartland-15",
+  "slug": "floods-of-hartland-1994-ice-jam",
+  "title": "1994 Ice jam",
+  "image": "/images/photos/floods-of-hartland/1994-ice-jam.jpg",
+  "description": "Flood on April 20, 1994.",
+  "annotation_author": "Doris Kennedy",
+  "date": "1994",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "category_ids": [
+    "cat-floods",
+    "cat-river-life"
+  ],
+  "tags": [
+    "floods-of-hartland"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-floods"
+  ],
+  "alt": "1994 Ice jam — Doris Kennedy Collection."
+}

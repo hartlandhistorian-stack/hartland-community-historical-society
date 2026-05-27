@@ -1,0 +1,30 @@
+{
+  "id": "photo-floods-of-hartland-04",
+  "slug": "floods-of-hartland-1940-keith-and-price-mill-lower-main",
+  "title": "1940 Keith & Price Mill lower Main",
+  "image": "/images/photos/floods-of-hartland/1940-keith-and-price-mill-lower-main.jpg",
+  "description": "Flood of 1940. Shows Price and Keith portable saw mill lower Main Street.",
+  "annotation_author": "Doris Kennedy",
+  "date": "1940",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Price Mill"
+  ],
+  "category_ids": [
+    "cat-floods",
+    "cat-river-life"
+  ],
+  "tags": [
+    "floods-of-hartland"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-floods"
+  ],
+  "alt": "1940 Keith & Price Mill lower Main — Doris Kennedy Collection."
+}

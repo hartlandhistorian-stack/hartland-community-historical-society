@@ -1,0 +1,32 @@
+{
+  "id": "photo-becaguimic-mill-07",
+  "slug": "becaguimic-mill-frank-hagermans-grist-mill",
+  "title": "Frank Hagerman's Grist Mill",
+  "image": "/images/photos/becaguimic-mill/frank-hagermans-grist-mill.jpg",
+  "description": "Frank Hagerman's Grist Mill. From the Doris Kennedy Collection. (Full identifications for this poster are available below.)",
+  "annotation_author": "Doris Kennedy",
+  "date": "circa 1900",
+  "estimated_date": true,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Frank Hagerman",
+    "Grist Mill"
+  ],
+  "category_ids": [
+    "cat-mills",
+    "cat-river-life",
+    "cat-logging"
+  ],
+  "tags": [
+    "becaguimic-mill"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-mill"
+  ],
+  "alt": "Frank Hagerman's Grist Mill — Doris Kennedy Collection."
+}

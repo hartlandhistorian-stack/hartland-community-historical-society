@@ -1,0 +1,305 @@
+{
+  "id": "poster-salmon-pool",
+  "slug": "wolastoqey-salmon-pool",
+  "title": "Wolastoqey Salmon Pool",
+  "description": "The Hartland Salmon Pool — known by its Wolastoqey name on the poster — was for generations the most productive Atlantic salmon pool on the upper St. John River. This collection gathers forty-eight portraits of the anglers, families, and visitors who fished it, along with general views of the pool itself.",
+  "physical_location": "Hartland Community Library, Hartland, NB",
+  "display_date": "circa 2010",
+  "poster_image": "/images/posters/wolastoqey-salmon-pool.png",
+  "poster_pdf": "/posters/wolastoqey-salmon-pool.pdf",
+  "category_ids": [
+    "cat-river-life",
+    "cat-families-community"
+  ],
+  "photo_sequence": [
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-01",
+      "row": 1,
+      "column": 1,
+      "display_order": 1
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-02",
+      "row": 1,
+      "column": 2,
+      "display_order": 2
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-03",
+      "row": 1,
+      "column": 3,
+      "display_order": 3
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-04",
+      "row": 1,
+      "column": 4,
+      "display_order": 4
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-05",
+      "row": 1,
+      "column": 5,
+      "display_order": 5
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-06",
+      "row": 2,
+      "column": 1,
+      "display_order": 6
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-07",
+      "row": 2,
+      "column": 2,
+      "display_order": 7
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-08",
+      "row": 2,
+      "column": 3,
+      "display_order": 8
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-09",
+      "row": 2,
+      "column": 4,
+      "display_order": 9
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-10",
+      "row": 2,
+      "column": 5,
+      "display_order": 10
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-11",
+      "row": 3,
+      "column": 1,
+      "display_order": 11
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-12",
+      "row": 3,
+      "column": 2,
+      "display_order": 12
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-13",
+      "row": 3,
+      "column": 3,
+      "display_order": 13
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-15",
+      "row": 3,
+      "column": 4,
+      "display_order": 14
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-14",
+      "row": 3,
+      "column": 5,
+      "display_order": 15
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-16",
+      "row": 4,
+      "column": 1,
+      "display_order": 16
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-19",
+      "row": 4,
+      "column": 2,
+      "display_order": 17
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-20",
+      "row": 4,
+      "column": 3,
+      "display_order": 18
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-21",
+      "row": 4,
+      "column": 4,
+      "display_order": 19
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-22",
+      "row": 4,
+      "column": 5,
+      "display_order": 20
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-23",
+      "row": 5,
+      "column": 1,
+      "display_order": 21
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-24",
+      "row": 5,
+      "column": 2,
+      "display_order": 22
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-25",
+      "row": 5,
+      "column": 3,
+      "display_order": 23
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-17",
+      "row": 5,
+      "column": 4,
+      "display_order": 24
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-27",
+      "row": 5,
+      "column": 5,
+      "display_order": 25
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-29",
+      "row": 6,
+      "column": 1,
+      "display_order": 26
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-30",
+      "row": 6,
+      "column": 2,
+      "display_order": 27
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-31",
+      "row": 6,
+      "column": 3,
+      "display_order": 28
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-32",
+      "row": 6,
+      "column": 4,
+      "display_order": 29
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-33",
+      "row": 6,
+      "column": 5,
+      "display_order": 30
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-34",
+      "row": 7,
+      "column": 1,
+      "display_order": 31
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-35",
+      "row": 7,
+      "column": 2,
+      "display_order": 32
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-36",
+      "row": 7,
+      "column": 3,
+      "display_order": 33
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-37",
+      "row": 7,
+      "column": 4,
+      "display_order": 34
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-38",
+      "row": 7,
+      "column": 5,
+      "display_order": 35
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-39",
+      "row": 8,
+      "column": 1,
+      "display_order": 36
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-40",
+      "row": 8,
+      "column": 2,
+      "display_order": 37
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-41",
+      "row": 8,
+      "column": 3,
+      "display_order": 38
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-43",
+      "row": 8,
+      "column": 4,
+      "display_order": 39
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-44",
+      "row": 8,
+      "column": 5,
+      "display_order": 40
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-45",
+      "row": 9,
+      "column": 1,
+      "display_order": 41
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-46",
+      "row": 9,
+      "column": 2,
+      "display_order": 42
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-47",
+      "row": 9,
+      "column": 3,
+      "display_order": 43
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-42",
+      "row": 9,
+      "column": 4,
+      "display_order": 44
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-18",
+      "row": 9,
+      "column": 5,
+      "display_order": 45
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-28",
+      "row": 10,
+      "column": 1,
+      "display_order": 46
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-26",
+      "row": 10,
+      "column": 2,
+      "display_order": 47
+    },
+    {
+      "photo_id": "photo-wolastoqey-salmon-pool-48",
+      "row": 10,
+      "column": 3,
+      "display_order": 48
+    }
+  ],
+  "notes": "Annotations by Doris Kennedy. Full identification text available at /identifications/wolastoqey-salmon-pool.txt."
+}

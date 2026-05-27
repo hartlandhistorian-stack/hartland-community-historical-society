@@ -1,0 +1,30 @@
+{
+  "id": "photo-wolastoqey-salmon-pool-24",
+  "slug": "wolastoqey-salmon-pool-gerald-hovey",
+  "title": "Gerald Hovey",
+  "image": "/images/photos/wolastoqey-salmon-pool/gerald-hovey.jpg",
+  "description": "Gerald Hovey",
+  "annotation_author": "Doris Kennedy",
+  "date": "circa 1900",
+  "estimated_date": true,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Gerald Hovey"
+  ],
+  "category_ids": [
+    "cat-river-life",
+    "cat-families-community"
+  ],
+  "tags": [
+    "wolastoqey-salmon-pool"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-salmon-pool"
+  ],
+  "alt": "Gerald Hovey — Doris Kennedy Collection."
+}

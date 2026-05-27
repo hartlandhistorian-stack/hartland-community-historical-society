@@ -1,0 +1,30 @@
+{
+  "id": "photo-festivals-and-celebrations-10",
+  "slug": "festivals-and-celebrations-1962-potato-blossom-festival",
+  "title": "1962 Potato Blossom Festival",
+  "image": "/images/photos/festivals-and-celebrations/1962-potato-blossom-festival.jpg",
+  "description": "1962 Parade coming down Orser Street meeting Main Street.",
+  "annotation_author": "Doris Kennedy",
+  "date": "1962",
+  "estimated_date": false,
+  "location": "Hartland, NB",
+  "latitude": 46.3018,
+  "longitude": -67.5275,
+  "people": [
+    "Potato Blossom"
+  ],
+  "category_ids": [
+    "cat-festivals",
+    "cat-families-community"
+  ],
+  "tags": [
+    "festivals-and-celebrations"
+  ],
+  "source": "Doris Kennedy Collection",
+  "credit": "Doris Kennedy Collection — Hartland Community Historical Society",
+  "rights": "Used by permission of Doris Kennedy. Contact the Society for reuse.",
+  "poster_ids": [
+    "poster-festivals"
+  ],
+  "alt": "1962 Potato Blossom Festival — Doris Kennedy Collection."
+}
