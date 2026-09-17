@@ -21,19 +21,20 @@ The Hartland Heritage & Historical Society Inc. was formed in the community of H
 
 Our mission is simple and enduring: to preserve, interpret, and share the history, people, stories, and heritage of Hartland and surrounding communities for present and future generations. Every artifact we care for, every story we record, and every volunteer hour we give is guided by that mission.
 
-### Our New Museum
+### Getting Our Museum Started
 
-We are proud to announce our most ambitious undertaking yet: establishing a permanent home for the Hartland Heritage & Historical Society Museum. This museum will house photographs, documents, artifacts, and oral histories gathered from families and organizations throughout our region — giving residents and visitors alike a place to discover, and reconnect with, the people and events that shaped our community.
+We are proud to announce our newest and most ambitious undertaking: opening the doors of the Hartland Heritage & Historical Society Museum for the very first time. This is a brand-new project, built entirely by volunteers, and at this early stage we do not yet have the funding, equipment, or technology needed to bring it to life.
 
-As a senior-led organization run entirely by volunteers, we rely on the generosity of our community — including the local businesses who have always been part of Hartland's story — to bring this project to life. We are respectfully asking for your support in the form of a sponsorship to help us prepare, equip, and open our museum to the public.
+As a senior-led organization run entirely by volunteers, we are turning to the local businesses who have always been part of Hartland's story to help us get started. We are respectfully asking for your financial support to purchase the basic equipment and technology our museum needs before it can open its doors — this request is not tied to an event, but to the foundational costs of starting our museum from nothing.
 
-### How Your Sponsorship Will Help
+### What Your Sponsorship Will Provide
 
-- Preparing and outfitting the museum space, including display cases, shelving, and lighting
-- Conservation and preservation supplies for fragile photographs, documents, and artifacts
-- Interpretive signage, exhibit design, and accessibility improvements
-- Community programming, school tours, and public opening events
-- Ongoing operating costs so the museum remains free or low-cost to visit
+- A computer, scanner, and printer for cataloguing, digitizing, and preserving photographs, documents, and records
+- Picture enlargements, professionally framed, for permanent display throughout the museum
+- A rotating projector to loop historical video footage and slideshows for visitors
+- Display technology such as screens and monitors for interactive and multimedia exhibits
+- Archival and preservation supplies to protect fragile artifacts and documents
+- Basic startup furnishings, display cases, and signage to prepare the museum space
 
 ### Sponsorship Levels
 
@@ -41,17 +42,17 @@ We welcome support at any level, and every contribution — large or small — w
 
 | Level | Amount | Recognition |
 |---|---|---|
-| **Heritage Partner** | $1,000+ | Prominent recognition on our donor wall, logo and link on our website, feature in our opening announcement, and an invitation for two to our museum opening reception. |
-| **Bridge Sponsor** | $500–$999 | Recognition on our donor wall, listing on our website, and an invitation for two to our opening reception. |
-| **River Sponsor** | $250–$499 | Listing on our donor wall and website, and an invitation to our opening reception. |
+| **Heritage Partner** | $1,000+ | Recognition as a Founding Sponsor on our donor wall, logo and link on our website, and a feature in our community launch announcement. |
+| **Bridge Sponsor** | $500–$999 | Recognition as a Founding Sponsor on our donor wall and a listing on our website. |
+| **River Sponsor** | $250–$499 | Listing on our donor wall and website. |
 | **Community Friend** | $100–$249 | Name listed on our donor wall and in our newsletter. |
-| **In-Kind Support** | Varies | Materials, supplies, printing, or professional services are welcomed and acknowledged with the same recognition as a comparable cash gift. |
+| **In-Kind Support** | Varies | Equipment or supplies donated directly — such as a computer, scanner, printer, projector, or framing materials — are welcomed and acknowledged with the same recognition as a comparable cash gift. |
 
 ### Next Steps
 
 We would be delighted to meet with you in person to share our plans in more detail, answer any questions, and discuss how a partnership with the Hartland Heritage & Historical Society could work for your business. Please contact us using the information below at your convenience.
 
-Thank you for considering this request. Your support — in whatever form it takes — helps ensure that the history, people, and heritage of Hartland and the surrounding communities are preserved and shared for generations to come.
+Thank you for considering this request. Your support today will help us open the doors of the Hartland Heritage & Historical Society Museum for the very first time, and ensure that the history, people, and heritage of Hartland and the surrounding communities are preserved and shared for generations to come.
 
 With sincere thanks,
 
